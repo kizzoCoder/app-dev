@@ -1,2 +1,6 @@
 # app-dev
-My first repository
+#MY FAVORITE MOVIES
+**MEN IN BLACK**
+**YOUR LIE IN APRIL**
+**JURASSIC PARK**
+*LOVE GURU**
